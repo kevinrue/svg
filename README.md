@@ -28,6 +28,10 @@ Clones of a repository with branches without conflict.
 
 Collaborating with clones of a repository.
 
+<img src="images/git-commit-multiple-files.svg" alt="Committing multiple files." width="500" align="center" height="300">
+
+Committing multiple files.
+
 ## SSH
 
 <img src="images/ssh-key-pair.svg" alt="The concept of SSH key pair." align="center" width="500" height="300">

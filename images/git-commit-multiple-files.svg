@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 659.7 240" style="enable-background:new 0 0 659.7 240;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{fill:#E30613;}
+	.st3{font-family:'Courier';}
+	.st4{font-size:9px;}
+	.st5{fill:#0B7E35;}
+	.st6{font-family:'ArialMT';}
+	.st7{font-size:12px;}
+	.st8{font-size:18px;}
+</style>
+<rect x="148.8" y="13.8" class="st0" width="371.4" height="187.3"/>
+<g>
+	<g>
+		<line class="st1" x1="87.4" y1="109.9" x2="567.8" y2="109.5"/>
+		<g>
+			<path d="M573.8,109.5c-2.8,1.1-6.4,2.9-8.5,4.8l1.7-4.8l-1.7-4.8C567.4,106.7,570.9,108.5,573.8,109.5z"/>
+		</g>
+	</g>
+</g>
+<g>
+	<rect x="172.5" y="49" class="st0" width="132.3" height="123.7"/>
+	<text transform="matrix(1 0 0 1 180.7543 69.2236)" class="st2 st3 st4">def function</text>
+	<text transform="matrix(1 0 0 1 181.2103 84.8835)" class="st5 st3 st4">def function2</text>
+</g>
+<g>
+	<rect x="269.3" y="56.1" class="st0" width="132.3" height="123.7"/>
+	<text transform="matrix(1 0 0 1 277.5167 76.3052)" class="st2 st3 st4">function(a, b)</text>
+	<text transform="matrix(1 0 0 1 277.9727 91.9651)" class="st5 st3 st4">function2(a, b)</text>
+	<text transform="matrix(1 0 0 1 285.2715 145.7568)" class="st2 st3 st4">function(a, b)</text>
+	<text transform="matrix(1 0 0 1 285.7275 161.4167)" class="st5 st3 st4">function2(a, b)</text>
+</g>
+<g>
+	<rect x="364.1" y="61.3" class="st0" width="132.3" height="123.7"/>
+	<text transform="matrix(1 0 0 1 372.2866 115.3411)" class="st2 st3 st4">function(a, b)</text>
+	<text transform="matrix(1 0 0 1 372.7426 131.0009)" class="st5 st3 st4">function2(a, b)</text>
+</g>
+<rect x="172.5" y="26.8" class="st0" width="132.3" height="22.2"/>
+<text transform="matrix(1 0 0 1 213.0268 41.1786)" class="st6 st7">script1.py</text>
+<g>
+	<rect x="269.3" y="33.9" class="st0" width="132.3" height="22.2"/>
+	<text transform="matrix(1 0 0 1 309.7888 48.2602)" class="st6 st7">script2.py</text>
+</g>
+<g>
+	<rect x="364.1" y="39.8" class="st0" width="132.3" height="22.2"/>
+	<text transform="matrix(1 0 0 1 404.6188 54.1748)" class="st6 st7">script3.py</text>
+</g>
+<text transform="matrix(1 0 0 1 41.2416 84.7825)" class="st6 st8">Version 1</text>
+<text transform="matrix(1 0 0 1 543.8918 84.7353)" class="st6 st8">Version 2</text>
+<circle cx="79.3" cy="109.9" r="8.1"/>
+<circle cx="581.9" cy="109.5" r="8.1"/>
+<text transform="matrix(1 0 0 1 313.8594 222.1352)" class="st6 st7">Commit</text>
+</svg>
