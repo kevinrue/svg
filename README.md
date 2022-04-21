@@ -34,6 +34,6 @@ Committing multiple files.
 
 ## SSH
 
-<img src="images/ssh-key-pair.svg" alt="The concept of SSH key pair." align="center" width="500" height="300">
+<img src="images/ssh-key-pair.svg" alt="The concept of SSH key pair." align="center" width="500" height="400">
 
 The concept of SSH key pair.
