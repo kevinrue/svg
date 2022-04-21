@@ -12,7 +12,9 @@ Conflicting clones of a Git repository (highlighted).
 
 Conflicting clones of a Git repository.
 
-<img src="git-clone-collaboration.svg" alt="Girl in a jacket" width="500" align="center" height="300">
+<img src="git-clone-collaboration.svg" alt="Collaborating with clones of a Git repository." width="500" align="center" height="300">
+
+Collaborating with clones of a Git repository.
 
 ## SSH
 
