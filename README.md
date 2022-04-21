@@ -14,7 +14,7 @@ Conflicting clones of a Git repository.
 
 <img src="git-clone-collaboration.svg" alt="Girl in a jacket" width="500" height="300">
 
-## SSH
+## SSH
 
 <img src="ssh-key-pair.svg" alt="The concept of SSH key pair." width="500" height="300">
 
