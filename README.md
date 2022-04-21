@@ -20,7 +20,7 @@ Deleting merged branches.
 
 Merging branches.
 
-<img src="images/git-branch-no-conflict.svg" alt="Clones of a repository with branches without conflict." width="500" align="center" height="300">
+<img src="images/git-branch-no-conflict.svg" alt="Clones of a repository with branches  conflict." width="500" align="center" height="400">
 
 Clones of a repository with branches without conflict.
 
@@ -28,7 +28,7 @@ Clones of a repository with branches without conflict.
 
 Collaborating with clones of a repository.
 
-<img src="images/git-commit-multiple-files.svg" alt="Committing multiple files." width="500" align="center" height="300">
+<img src="images/git-commit-multiple-files.svg" alt="Committing multiple files." width="500" align="center" height="400">
 
 Committing multiple files.
 
