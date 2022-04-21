@@ -16,6 +16,10 @@ Conflicting clones of a Git repository.
 
 Collaborating with clones of a Git repository.
 
+<img src="branch-merge-delete.svg" alt="Deleting merged branches." width="500" align="center" height="300">
+
+Collaborating with clones of a Git repository.
+
 ## SSH
 
 <img src="ssh-key-pair.svg" alt="The concept of SSH key pair." align="center" width="500" height="300">
