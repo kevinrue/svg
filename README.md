@@ -4,9 +4,9 @@ Repository of SVG files shared across projects.
 
 ## Git
 
-<img src="branch-conflict-show.svg" alt="Conflicting clones of a Git repository (highlighted)." align="center" width="500" height="300">
+<img src="git-branch-conflict-push.svg" alt="Conflicting clones of a Git repository (highlighted)." align="center" width="500" height="300">
 
-Conflicting clones of a Git repository (highlighted).
+[git-branch-conflict-push.svg](git-branch-conflict-push.svg) - Conflicting clones of a Git repository, highlighted.
 
 <img src="branch-conflict.svg" alt="Conflicting clones of a Git repository." align="center" width="500" height="300">
 
