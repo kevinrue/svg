@@ -18,7 +18,7 @@ Collaborating with clones of a Git repository.
 
 <img src="branch-merge-delete.svg" alt="Deleting merged branches." width="500" align="center" height="300">
 
-Collaborating with clones of a Git repository.
+Deleting merged branches.
 
 ## SSH
 
