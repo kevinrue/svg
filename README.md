@@ -16,6 +16,10 @@ Conflicting clones of a Git repository.
 
 Collaborating with clones of a Git repository.
 
+<img src="images/git-branch-merge.svg" alt="Merging branches." width="500" align="center" height="300">
+
+Merging branches.
+
 <img src="images/git-branch-merge-delete.svg" alt="Deleting merged branches." width="500" align="center" height="300">
 
 Deleting merged branches.
